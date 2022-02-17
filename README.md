@@ -27,8 +27,9 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![Swapped Numbers](/swapping.PNG)
 
+
+![image](https://user-images.githubusercontent.com/94228215/154520982-7f630d86-91f8-4f8a-b0b0-b280dbad6614.png)
 
 
 
