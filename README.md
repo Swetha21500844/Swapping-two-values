@@ -28,8 +28,8 @@ print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
 
+![image](https://user-images.githubusercontent.com/94228215/154521102-6828258a-d959-42ef-9c0c-bed37f4b55a7.png)
 
-![image](https://user-images.githubusercontent.com/94228215/154520982-7f630d86-91f8-4f8a-b0b0-b280dbad6614.png)
 
 
 
